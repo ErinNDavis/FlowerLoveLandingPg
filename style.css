@@ -84,7 +84,7 @@ button {
     border-radius: 5px;
     border: solid  1px white;
     width: 100px;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .random-info {
@@ -126,7 +126,7 @@ img {
     background-position: center;
     background-size: cover;
     text-align: center;
-    font-size: 36px;
+    font-size: 55px;
     font-weight:lighter;
     font-style: italic;
     color: #ffe4e1;
@@ -144,22 +144,23 @@ img {
 }
 
 .call-to-action {
-    background: #3882F6;
+    background-color: #65000b;
     margin-right: 150px;
     margin-left: 150px;
     margin-top: 76px;
     margin-bottom: 76px;
-    color: white;
+    color: #ffe4e1;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding-top: 25px;
     padding-bottom: 25px;
+    font-size: 30px;
 }
 
 .footer {
-    background: #1F2937;
-    color: #F9FAF8;
+    background: #ffb6c1;
+    color: #00563f;
     display: flex;
     justify-content: center;
     align-items: center;
