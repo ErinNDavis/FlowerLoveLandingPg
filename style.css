@@ -98,17 +98,31 @@ button {
 
 .info-images-container {
     display: flex;
+    margin-right: 200px;
+    margin-left: 200px;
+    gap: 10px;
+    justify-content: center;
+    flex: 1;
 }
 
-figure img {
+img {
     border: solid pink;
     border-radius: 5px;
     width: 95px;
     height: 95px;
 }
 
+.interesting-facts-image {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    align-items: center;
+}
+
 figcaption {
     text-align: center;
+    display: flex;
 }
 
 .quote-block {
