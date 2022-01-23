@@ -2,8 +2,7 @@
 
 Pure html and css landing page created for fictional website. 
 
-<img src="Screen Shot 2022-01-23 at 12.13.21 PM.png">
-<img src="Screen Shot 2022-01-23 at 12.13.29 PM.png">
+<img src="Flower Market.pdf">
 
 Features:
 - flexbox to position and align items
