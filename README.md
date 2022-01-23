@@ -2,7 +2,7 @@
 
 Pure html and css landing page created for fictional website. 
 
-<img src="Flower Market.pdf">
+<img src="">
 
 Features:
 - flexbox to position and align items
