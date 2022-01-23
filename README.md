@@ -8,4 +8,4 @@ Features:
 - flexbox to position and align items
 - can hover over links in the header and they will highlight and give a small discription of the link
 
-<img src="Screen Shot 2022-01-23 at 12.05.43 PM.png>
+<img src="Screen Shot 2022-01-23 at 12.05.43 PM.png">
